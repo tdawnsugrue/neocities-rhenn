@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!-- Template for new pages. This was supposed to be a template that could be interacted with (to maximise compatibility and DRY)...
+     Aimed to be as modular as possible (I'm doing my best)-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rhenn's Art</title>
+    <link href="/main.css" rel="stylesheet" type="text/css" media="all"/>
+    <script src="js/jquery-3.7.0.min.js"></script>
+</head>
+<body>
+    <main>
+        <h1 id="title">Ateli-weird</h1>
+        <section id="left-panel">
+            <div id="updates">
+            </div>
+            <nav></nav>
+        </section>
+        <div id="main">
+            <h2 id="main-title">My Art</h2>
+            <p>To save loading time, images here are pretty small. Higher-res versions can be found on various socials - check my contact page.</p>
+            <div id="recent-container">
+                <h3>Recent</h3>
+                <div id="gallery">
+                    
+                </div> 
+            </div>
+            <div id="sketches">
+                <h3>Sketch Log</h3>
+                <div id="2023">
+                    <h4>2023</h4>
+                </div>
+            </div>
+            <!-- NOTE: split by year (or subject) if this gets too big
+                TODO: add tags to images, implement filters -->
+            <script defer src="js/loadgalleries.js"></script>
+            
+        </div>
+        <footer></footer>
+    </main>
+
+    <!-- PAGE-INDEPENDENT LOADING GOES HERE!!-->
+    <script>
+        $(function(){
+            $("#updates").load("components/updates.html");
+            $("nav").load("components/nav.html");
+            $("footer").load("components/footer.html");
+        })
+    </script>
+</body>
+</html>

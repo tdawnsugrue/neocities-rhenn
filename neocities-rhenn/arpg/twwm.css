@@ -1,0 +1,35 @@
+body {
+    background-image: url("/images/background-dark.jpg");
+}
+
+#main > * {
+    display: flex;
+    justify-content: center;
+}
+
+main > * {
+    background: #2f2f2f;
+    color: darkseagreen;
+    border-color: #1f1f1f;
+}
+
+a {
+    color: #c1ddca;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+#main > img {
+    margin-left: 25%;
+}
+
+#biome {
+    max-height: 5em;
+}
