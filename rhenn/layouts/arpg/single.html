@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ $masterlist := .Param "masterlist" }}
+{{ $tracker := .Param "tracker" }}
+{{ $img := .Param "img" }}
+{{ $biome := .Param "biome" }}
+<h2>{{ .Title }}</h2>
+<img src="{{ $img }}" id="{{ .Title }}-reference" alt="reference image of esk {{ .Title}}"/>
+<p class="size-25"><a href="{{ $masterlist }}">Masterlist</a>&nbsp;|&nbsp;<a href="{{ $tracker }}">GP Tracker</a></p>
+<p><img src="{{ $biome }}" id="biome"></p>
+{{ .Content }}
+{{ end }}

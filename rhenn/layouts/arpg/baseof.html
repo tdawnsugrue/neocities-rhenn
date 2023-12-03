@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {{ partial "head.html" . }}
+        {{ $css := "css/twwm.css" | relURL }}
+        <link rel="stylesheet" href="{{ $css }}">
+    </head>
+    <body>
+        <main>
+            <h1>{{ .Site.Title }}</h1>
+            {{ partial "nav.html" . }}
+            <div id="main">
+                {{ block "main" . }} {{ end }}
+            </div>
+            {{ partial "footer.html" . }}
+        </main>
+        
+    </body>
+</html>

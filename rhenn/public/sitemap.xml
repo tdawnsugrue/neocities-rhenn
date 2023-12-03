@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/arpg/1869/</loc>
+    <lastmod>2023-12-03T21:40:16+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/arpg/</loc>
+    <lastmod>2023-12-03T21:40:01+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-12-03T21:23:09+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2023-12-03T21:23:09+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/art/</loc>
+    <lastmod>2023-12-03T21:07:45+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/</loc>
+    <lastmod>2023-12-03T18:48:29+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/murderbot/</loc>
+    <lastmod>2023-12-03T18:48:29+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/melusine/</loc>
+    <lastmod>2023-12-03T18:22:10+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/witch-king/</loc>
+    <lastmod>2023-12-03T18:17:36+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/another-post/</loc>
+    <lastmod>2023-12-03T17:54:47+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2023-12-03T17:54:47+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/test-post/</loc>
+    <lastmod>2023-12-03T17:38:28+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

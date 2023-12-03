@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<p>Blurb about book reviews goes here. In the meantime, note:</p>
+<ul>
+    <li>Most of these books are SFF; there should (hopefully) be a tag system in future to reflect this</li>
+    <li>The reviews are based on writing quality, but <i>also</i> my enjoyment</li>
+    <li>The given star rating is somewhat arbitrary. Anything >=3 stars, I enjoyed.</li>
+</ul>
+<hr>
+
+{{ range .Pages.GroupByParam "author" }}
+<p>{{ .Key | title }}</p>
+<ul style="list-style-type: none;">
+{{ range .Pages }}
+<li>
+    {{ .Param "stars"}}&nbsp;<a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <br>
+</li>
+  {{ end }}
+</ul>
+  {{ end }}
+  {{ end }}

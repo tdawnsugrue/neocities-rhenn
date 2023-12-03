@@ -1,0 +1,32 @@
+baseURL = "http://example.org/"
+languageCode = "en-uk"
+title = "Ateli-weird"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts/"
+        weight = 4
+    [[menu.main]]
+        name = "Book Reviews"
+        url = "/reviews/"
+        weight = 3
+    [[menu.main]]
+        name = "Art"
+        url = "/art/"
+        weight = 2
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact"
+        weight = 5
+    [[menu.main]]
+        name = "ARPGS"
+        url = "/arpg/"
+        weight = 6
+
+[params]
+    homeText = "test test test"

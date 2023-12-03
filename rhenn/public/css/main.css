@@ -1,0 +1,104 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat;
+    align-content: center;
+    
+}
+
+main {
+    display:grid;
+    grid-template-columns: 15vw 45vw;
+    margin-left: 20vw;
+}
+
+@media screen and (max-width:800px) {
+    body {
+        background-size: auto 100vh;
+    }
+    
+    main {
+        display:grid;
+        grid-template-columns: auto;
+        margin-left: 20vw;
+    }
+
+    main > * {
+        grid-column: span 2;
+    }
+}
+
+main > * {
+    background: rgba(255,255,255,0.8);
+    border: solid 2px rgba(255,255,255);
+    padding-left: 2%;
+}
+
+h1 {
+    grid-column: span 2;
+    font-size: 45px;
+    padding: 0.2em;
+}
+
+footer {
+    grid-column: span 2;
+}
+
+div > h3 {
+    padding-right: 2em;
+    padding-bottom: auto
+}
+
+img {
+    max-width: 50%;
+}
+
+#gallery {
+    display: hide; /*altered by button behaviour*/
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.gallery-image {
+    height: 10em;
+    margin: 2px;
+}
+
+.img-clickable:hover {
+    height: 20em;
+}
+
+.galleryButton {
+    width: 100px;
+}
+
+.recent-image {
+    width: 10vw;
+    margin: 10px;
+}
+
+#recent-panel {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+/* Statuscafe section */
+#statuscafe {
+    padding: .5em;
+    background-color: azure;
+    border: 1px solid midnightblue;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+
+.list-section > :not(h3) {
+    padding-left: 2em;
+}
+
+.size-25 {
+    font-size: 25px;
+}

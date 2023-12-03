@@ -1,0 +1,8 @@
+    <nav id="left-panel">
+        {{ range .Site.Menus.main }}
+        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+        <br>
+        {{ end }}
+
+    </nav>
+    

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ateli-weird</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ateli-weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 03 Dec 2023 21:23:09 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1869</title>
+      <link>http://example.org/arpg/1869/</link>
+      <pubDate>Sun, 03 Dec 2023 21:40:16 +1300</pubDate>
+      
+      <guid>http://example.org/arpg/1869/</guid>
+      <description>Overview [1869] is a relatively friendly esk, although they carry an air of loneliness wherever they go. Drowned at sea, they are constantly wandering along the edges of their boundary, looking for their owners from their past life. Finding nothing, they take comfort in swimming with the fauna that make their homes in the ruins.
+ Origin [Prompts incomplete - check back later!]
+ </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sun, 03 Dec 2023 21:23:09 +1300</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>A list of other places you can find me.
+DeviantArt
+Tumblr
+Currently Inactive:
+I occasionally post to these but don&amp;rsquo;t check them actively.
+Instagram</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>http://example.org/art/</link>
+      <pubDate>Sun, 03 Dec 2023 21:07:45 +1300</pubDate>
+      
+      <guid>http://example.org/art/</guid>
+      <description>My Art Currently a work-in-progress while I get my galleries working. Mind the dust!
+In the meantime, check my contact page for social media where I post my art!</description>
+    </item>
+    
+    <item>
+      <title>The Murderbot Diaries</title>
+      <link>http://example.org/reviews/murderbot/</link>
+      <pubDate>Sun, 03 Dec 2023 18:48:29 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/murderbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melusine</title>
+      <link>http://example.org/reviews/melusine/</link>
+      <pubDate>Sun, 03 Dec 2023 18:22:10 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/melusine/</guid>
+      <description>I do want to write a review for Melusine, but the takeaways I would&amp;rsquo;ve had when I first read it in ~2018 are probably very different than my opinion of it now.</description>
+    </item>
+    
+    <item>
+      <title>Witch King</title>
+      <link>http://example.org/reviews/witch-king/</link>
+      <pubDate>Sun, 03 Dec 2023 18:17:36 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/witch-king/</guid>
+      <description>ababa</description>
+    </item>
+    
+    <item>
+      <title>Another Post</title>
+      <link>http://example.org/posts/another-post/</link>
+      <pubDate>Sun, 03 Dec 2023 17:54:47 +1300</pubDate>
+      
+      <guid>http://example.org/posts/another-post/</guid>
+      <description>this is the second post</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test-post/</link>
+      <pubDate>Sun, 03 Dec 2023 17:38:28 +1300</pubDate>
+      
+      <guid>http://example.org/posts/test-post/</guid>
+      <description>content content content</description>
+    </item>
+    
+  </channel>
+</rss>

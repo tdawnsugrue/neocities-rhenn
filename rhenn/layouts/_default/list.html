@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>
+    <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <br>
+</p>
+  {{ end }}
+  <p>This is an index template for (presumably) all content types</p>
+  {{ end }}

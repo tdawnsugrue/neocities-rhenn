@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Reviews on Ateli-weird</title>
+    <link>http://example.org/reviews/</link>
+    <description>Recent content in Book Reviews on Ateli-weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 03 Dec 2023 18:48:29 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Murderbot Diaries</title>
+      <link>http://example.org/reviews/murderbot/</link>
+      <pubDate>Sun, 03 Dec 2023 18:48:29 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/murderbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melusine</title>
+      <link>http://example.org/reviews/melusine/</link>
+      <pubDate>Sun, 03 Dec 2023 18:22:10 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/melusine/</guid>
+      <description>I do want to write a review for Melusine, but the takeaways I would&amp;rsquo;ve had when I first read it in ~2018 are probably very different than my opinion of it now.</description>
+    </item>
+    
+    <item>
+      <title>Witch King</title>
+      <link>http://example.org/reviews/witch-king/</link>
+      <pubDate>Sun, 03 Dec 2023 18:17:36 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/witch-king/</guid>
+      <description>ababa</description>
+    </item>
+    
+  </channel>
+</rss>

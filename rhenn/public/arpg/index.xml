@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arpg on Ateli-weird</title>
+    <link>http://example.org/arpg/</link>
+    <description>Recent content in Arpg on Ateli-weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 03 Dec 2023 21:40:01 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/arpg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1869</title>
+      <link>http://example.org/arpg/1869/</link>
+      <pubDate>Sun, 03 Dec 2023 21:40:16 +1300</pubDate>
+      
+      <guid>http://example.org/arpg/1869/</guid>
+      <description>Overview [1869] is a relatively friendly esk, although they carry an air of loneliness wherever they go. Drowned at sea, they are constantly wandering along the edges of their boundary, looking for their owners from their past life. Finding nothing, they take comfort in swimming with the fauna that make their homes in the ruins.
+ Origin [Prompts incomplete - check back later!]
+ </description>
+    </item>
+    
+  </channel>
+</rss>
