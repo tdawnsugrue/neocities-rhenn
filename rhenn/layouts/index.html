@@ -7,6 +7,9 @@
 <h3>Updates</h3>
 <div id="recent-panel">
         <div id="updates-content">
+                <h4>Status</h4>
+                {{ partial "status.html" . }}
+                <hr>
                 <h4>Recent reviews</h4>
                 {{ range  where .Pages "Section" "reviews"}}
                         {{ range .Pages.ByPublishDate.Reverse | first 2 }}

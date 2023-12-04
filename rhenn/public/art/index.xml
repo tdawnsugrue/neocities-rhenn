@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Digital</title>
+      <link>http://example.org/art/digital/</link>
+      <pubDate>Mon, 04 Dec 2023 17:36:41 +1300</pubDate>
+      
+      <guid>http://example.org/art/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pixel</title>
       <link>http://example.org/art/pixel/</link>
       <pubDate>Mon, 04 Dec 2023 10:58:23 +1300</pubDate>

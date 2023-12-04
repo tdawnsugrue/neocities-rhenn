@@ -1,8 +1,12 @@
-    <nav id="left-panel">
+    <div id="left-panel">
+        <nav>
         {{ range .Site.Menus.main }}
         <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
         <br>
         {{ end }}
+        </nav>
+        <hr>
+        {{ partial "left-panel.html" . }}
 
-    </nav>
+    </div>
     

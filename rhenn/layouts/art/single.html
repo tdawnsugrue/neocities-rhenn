@@ -3,6 +3,6 @@
     {{ $imgdir := .Param "imgdir"}}
     {{ $base := "content/art/"}}
     {{ range readDir (print $base $imgdir) }}
-    <img src="../pixel/{{ .Name }}" id="{{ .Name }}">
+    <img src="../{{ $imgdir }}/{{ .Name }}" id="{{ .Name }}">
     {{ end }}
 {{ end }}

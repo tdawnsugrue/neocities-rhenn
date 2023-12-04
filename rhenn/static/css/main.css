@@ -92,6 +92,8 @@ img {
     padding: .5em;
     background-color: azure;
     border: 1px solid midnightblue;
+    font-size: 8pt;
+    margin: .5em;
 }
 #statuscafe-username {
     margin-bottom: .5em;
@@ -102,4 +104,14 @@ img {
 
 .list-section > :not(h3) {
     padding-left: 2em;
+}
+
+#left-panel {
+    position: relative;
+}
+
+#panel-img {
+    max-width: 100%;
+    position: absolute;
+    bottom: 0;
 }

@@ -1,8 +1,14 @@
+@font-face {
+    font-family: "RobotoSlab";
+    src: url("/RobotoSlab-VariableFont_wght.ttf");
+}
+
 body {
     background-image: url("../img/background.jpg");
     background-attachment: fixed;
     background-repeat: repeat;
     align-content: center;
+    font-family: 'RobotoSlab', Times, serif;
     
 }
 
