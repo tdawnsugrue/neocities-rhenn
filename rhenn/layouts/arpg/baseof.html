@@ -10,6 +10,7 @@
             <h1>{{ .Site.Title }}</h1>
             {{ partial "nav.html" . }}
             <div id="main">
+                <h2>{{ .Title }}</h2>
                 {{ block "main" . }} {{ end }}
             </div>
             {{ partial "footer.html" . }}

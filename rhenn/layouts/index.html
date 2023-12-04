@@ -1,5 +1,26 @@
 {{ define "main" }}
-        <p>{{ .Site.Params.homeText | markdownify }}</p>
+        {{ .Content }}
+{{ end }}
 
-        
+{{ define "updates" }}
+<hr>
+<h3>Updates</h3>
+<div id="recent-panel">
+        <div id="updates-content">
+                <h4>Recent reviews</h4>
+                {{ range  where .Pages "Section" "reviews"}}
+                        {{ range .Pages.ByPublishDate.Reverse | first 2 }}
+                        <p style="margin:1px;font-size:9pt;"><a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ dateFormat "2 Jan" (.Param "date") }}</p>
+                        {{ end }}
+                {{ end }}
+                <hr>
+                <h4>Recent art</h4>
+                {{ $img := .Param "recent-art"}}
+                <img src="{{ $img }}" id="most-recent-art">
+        </div> 
+        <div id="updates-box">
+                {{ readFile "updates.md" | markdownify }}
+        </div> 
+</div> 
+
 {{ end }}

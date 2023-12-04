@@ -1,4 +1,7 @@
 {{ define "main" }}
 {{ .Content }}
-<p>Cool images go here</p>
+{{ range .Pages.ByTitle }}
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;|&nbsp;
+{{ end }}
+<br><br>
 {{ end }}

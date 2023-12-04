@@ -29,4 +29,4 @@ title = "Ateli-weird"
         weight = 6
 
 [params]
-    homeText = "test test test"
+    homeText = ""

@@ -5,13 +5,15 @@
 </head>    
     <body>
         <main>
-            <h1>{{ .Title }}</h1>
+            <h1>{{ .Site.Title }}</h1>
             {{ partial "nav.html" . }}
             <div id="main">
+                <h2>{{ .Title }}</h2>
                 {{ block "main" . }} {{ end }}
+                {{ block "updates" . }} {{ end }}
             </div>
             {{ partial "footer.html" . }}
         </main>
-        
+    </div>
     </body>
 </html>

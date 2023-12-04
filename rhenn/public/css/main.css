@@ -53,33 +53,32 @@ img {
     max-width: 50%;
 }
 
-#gallery {
-    display: hide; /*altered by button behaviour*/
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.gallery-image {
-    height: 10em;
-    margin: 2px;
-}
-
-.img-clickable:hover {
-    height: 20em;
-}
-
-.galleryButton {
-    width: 100px;
-}
-
-.recent-image {
-    width: 10vw;
-    margin: 10px;
-}
-
 #recent-panel {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 60% auto;
+    gap: 10px;
+    max-height: 500px;
+    margin-bottom: 10px;
+    
+}
+
+#recent-panel > * {
+    background-color: rgba(200,200,200,1);
+}
+
+.datetext {
+    font-size: 9pt;
+}
+
+#updates-content > img {
+    max-height: inherit;
+}
+
+#updates-box {
+    /* height: 15vw; */
+    font-size: 9pt;
+    overflow: scroll;
+    border: solid 2px black;
 }
 
 /* Statuscafe section */
@@ -97,8 +96,4 @@ img {
 
 .list-section > :not(h3) {
     padding-left: 2em;
-}
-
-.size-25 {
-    font-size: 25px;
 }

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/art/pixel/</loc>
+    <lastmod>2023-12-04T10:58:23+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/arpg/1869/</loc>
     <lastmod>2023-12-03T21:40:16+13:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>http://example.org/arpg/</loc>
     <lastmod>2023-12-03T21:40:01+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-12-03T21:23:09+13:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +60,16 @@
   <url>
     <loc>http://example.org/posts/test-post/</loc>
     <lastmod>2023-12-03T17:38:28+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>1970-01-01T12:00:00+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/updates/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

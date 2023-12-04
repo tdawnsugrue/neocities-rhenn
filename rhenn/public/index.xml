@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ateli-weird</title>
+    <title>Welcome! on Ateli-weird</title>
     <link>http://example.org/</link>
-    <description>Recent content on Ateli-weird</description>
+    <description>Recent content in Welcome! on Ateli-weird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 03 Dec 2023 21:23:09 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 1970 12:00:00 +1200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pixel</title>
+      <link>http://example.org/art/pixel/</link>
+      <pubDate>Mon, 04 Dec 2023 10:58:23 +1300</pubDate>
+      
+      <guid>http://example.org/art/pixel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>1869</title>
@@ -34,16 +43,6 @@ Tumblr
 Currently Inactive:
 I occasionally post to these but don&amp;rsquo;t check them actively.
 Instagram</description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>http://example.org/art/</link>
-      <pubDate>Sun, 03 Dec 2023 21:07:45 +1300</pubDate>
-      
-      <guid>http://example.org/art/</guid>
-      <description>My Art Currently a work-in-progress while I get my galleries working. Mind the dust!
-In the meantime, check my contact page for social media where I post my art!</description>
     </item>
     
     <item>
@@ -89,6 +88,17 @@ In the meantime, check my contact page for social media where I post my art!</de
       
       <guid>http://example.org/posts/test-post/</guid>
       <description>content content content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/updates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/updates/</guid>
+      <description>December 4, 2023 Put together image galleries for the Art section
+December 3, 2023 Did a major overhaul of the site; most of this was on the backend and involved moving the site over to a Hugo template. The content of the site hasn&amp;rsquo;t changed too much (though galleries are gone temporarily) but loading times should be a lot faster now as there&amp;rsquo;s much less javascript.
+July 31, 2023 Added &amp;ldquo;recent&amp;rdquo; gallery and homepage updates</description>
     </item>
     
   </channel>
