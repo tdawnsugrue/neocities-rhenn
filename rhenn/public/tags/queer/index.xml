@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Reviews on Ateli-weird</title>
-    <link>http://example.org/reviews/</link>
-    <description>Recent content in Book Reviews on Ateli-weird</description>
+    <title>queer on Ateli-weird</title>
+    <link>http://example.org/tags/queer/</link>
+    <description>Recent content in queer on Ateli-weird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 04 Dec 2023 20:22:57 +1300</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 20:19:19 +1300</lastBuildDate>
     
-	<atom:link href="http://example.org/reviews/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/queer/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Vorkosigan Saga</title>
-      <link>http://example.org/reviews/the-vorkosigan-saga/</link>
-      <pubDate>Mon, 04 Dec 2023 20:22:57 +1300</pubDate>
-      
-      <guid>http://example.org/reviews/the-vorkosigan-saga/</guid>
-      <description>Overall, I enjoyed this series, with some major caveats.
-Miles is a very fun character to follow, and these books hold up well. The early books are (mostly) very fun, and I found most of them no challenge to get through.
-My main problem was with the latter half of the series. As with most of Bujold&amp;rsquo;s books, there&amp;rsquo;s a tendency for characters to get happily traditionally married by the end of the series.</description>
-    </item>
     
     <item>
       <title>A Theory of Haunting</title>
@@ -40,16 +29,6 @@ I enjoyed the mystery of this book. Kyle Murchison Booth is always fun to read, 
       <guid>http://example.org/reviews/the-locked-tomb/</guid>
       <description>I enjoyed these books, and it&amp;rsquo;s always fun to see a NZ author. All the characters are interesting and each of the books have a central mystery that is both intriguing to find out and devastating at the conclusion.
 Unfortunately, something about the writing stopped me from clicking with the characters.</description>
-    </item>
-    
-    <item>
-      <title>The Murderbot Diaries</title>
-      <link>http://example.org/reviews/murderbot/</link>
-      <pubDate>Mon, 04 Dec 2023 20:10:00 +1300</pubDate>
-      
-      <guid>http://example.org/reviews/murderbot/</guid>
-      <description>The Murderbot Diaries is a series of novels and novellas following Murderbot, a sentient bot who has hacked its governor chip.
-I loved this series. Most of the novellas are relatively short, and easy reading. Despite that, each one manages a good amount of depth in terms of character, and Murderbot&amp;rsquo;s point of view is distinctive and fun to read.</description>
     </item>
     
     <item>

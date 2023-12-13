@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fantasy on Ateli-weird</title>
+    <link>http://example.org/tags/fantasy/</link>
+    <description>Recent content in fantasy on Ateli-weird</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 04 Dec 2023 20:15:49 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Locked Tomb</title>
+      <link>http://example.org/reviews/the-locked-tomb/</link>
+      <pubDate>Mon, 04 Dec 2023 20:15:49 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/the-locked-tomb/</guid>
+      <description>I enjoyed these books, and it&amp;rsquo;s always fun to see a NZ author. All the characters are interesting and each of the books have a central mystery that is both intriguing to find out and devastating at the conclusion.
+Unfortunately, something about the writing stopped me from clicking with the characters.</description>
+    </item>
+    
+    <item>
+      <title>Witch King</title>
+      <link>http://example.org/reviews/witch-king/</link>
+      <pubDate>Sun, 03 Dec 2023 18:17:36 +1300</pubDate>
+      
+      <guid>http://example.org/reviews/witch-king/</guid>
+      <description>Witch King follows the story of the demon Kai, who awakens after being killed, and his journey to find out what happened.
+I wanted to enjoy Witch King more than I did. I loved Kai as a protagonist, and Wells&amp;rsquo; writing was enjoyable, but it suffered from the split timeline.
+Witch King has two timelines - one set in the present, and one in the past. Both were very interesting, but I felt like not enough time was spent on either, leaving us with two half-stories.</description>
+    </item>
+    
+  </channel>
+</rss>

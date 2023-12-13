@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/reviews/</loc>
+    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/sci-fi/</loc>
+    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/the-vorkosigan-saga/</loc>
+    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/a-theory-of-haunting/</loc>
+    <lastmod>2023-12-04T20:19:19+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/horror/</loc>
+    <lastmod>2023-12-04T20:19:19+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/queer/</loc>
+    <lastmod>2023-12-04T20:19:19+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/fantasy/</loc>
+    <lastmod>2023-12-04T20:15:49+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/the-locked-tomb/</loc>
+    <lastmod>2023-12-04T20:15:49+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reviews/murderbot/</loc>
+    <lastmod>2023-12-04T20:10:00+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/commissions/</loc>
+    <lastmod>2023-12-04T18:05:07+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/art/digital/</loc>
     <lastmod>2023-12-04T17:36:41+13:00</lastmod>
   </url>
@@ -30,21 +85,6 @@
   <url>
     <loc>http://example.org/art/</loc>
     <lastmod>2023-12-03T21:07:45+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/</loc>
-    <lastmod>2023-12-03T18:48:29+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/murderbot/</loc>
-    <lastmod>2023-12-03T18:48:29+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/melusine/</loc>
-    <lastmod>2023-12-03T18:22:10+13:00</lastmod>
   </url>
   
   <url>
@@ -79,10 +119,6 @@
   
   <url>
     <loc>http://example.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
