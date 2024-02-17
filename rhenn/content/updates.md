@@ -1,3 +1,7 @@
+#### January 31, 2024  
+
+Added an RSS feed to the site. You can now get updates when I post something, hooray! :D
+
 #### December 4, 2023
 
 Put together image galleries for the Art section

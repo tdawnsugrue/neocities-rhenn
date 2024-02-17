@@ -18,8 +18,12 @@
                 {{ end }}
                 <hr>
                 <h4>Recent art</h4>
+                <!-- <div style="display: flex;align-content:flex-end;width: 100%;gap:100px;background:red"> -->
                 {{ $img := .Param "recent-art"}}
                 <img src="{{ $img }}" id="most-recent-art">
+                 <!-- <object id="melonland-surf-club" data="https://melonland.net/surf-badge.svg?fill=#5c3566" 
+                type="image/svg+xml" style="width: 100px; height: 100px;margin-top: 0;margin-left: 40%;"></object> -->
+                <!-- </div> -->
         </div> 
         <div id="updates-box">
                 {{ readFile "updates.md" | markdownify }}

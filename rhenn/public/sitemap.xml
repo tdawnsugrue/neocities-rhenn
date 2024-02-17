@@ -3,122 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/reviews/</loc>
+    <loc>http://rhenn.neocities.org/reviews/</loc>
+    <lastmod>2024-01-30T13:46:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/reviews/provenance/</loc>
+    <lastmod>2024-01-30T13:46:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/tags/sci-fi/</loc>
+    <lastmod>2024-01-30T13:46:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/tags/</loc>
+    <lastmod>2024-01-30T13:46:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/reviews/ancillary-justice/</loc>
+    <lastmod>2024-01-08T11:49:53+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/tags/fantasy/</loc>
+    <lastmod>2024-01-08T11:40:05+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/reviews/the-eternal-sky-trilogy/</loc>
+    <lastmod>2024-01-08T11:40:05+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rhenn.neocities.org/reviews/the-vorkosigan-saga/</loc>
     <lastmod>2023-12-04T20:22:57+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/sci-fi/</loc>
-    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/the-vorkosigan-saga/</loc>
-    <lastmod>2023-12-04T20:22:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/a-theory-of-haunting/</loc>
+    <loc>http://rhenn.neocities.org/reviews/a-theory-of-haunting/</loc>
     <lastmod>2023-12-04T20:19:19+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/horror/</loc>
+    <loc>http://rhenn.neocities.org/tags/horror/</loc>
     <lastmod>2023-12-04T20:19:19+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/queer/</loc>
+    <loc>http://rhenn.neocities.org/tags/queer/</loc>
     <lastmod>2023-12-04T20:19:19+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/fantasy/</loc>
+    <loc>http://rhenn.neocities.org/reviews/the-locked-tomb/</loc>
     <lastmod>2023-12-04T20:15:49+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reviews/the-locked-tomb/</loc>
-    <lastmod>2023-12-04T20:15:49+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reviews/murderbot/</loc>
+    <loc>http://rhenn.neocities.org/reviews/murderbot/</loc>
     <lastmod>2023-12-04T20:10:00+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/commissions/</loc>
-    <lastmod>2023-12-04T18:05:07+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/art/digital/</loc>
+    <loc>http://rhenn.neocities.org/art/digital/</loc>
     <lastmod>2023-12-04T17:36:41+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/art/pixel/</loc>
+    <loc>http://rhenn.neocities.org/art/pixel/</loc>
     <lastmod>2023-12-04T10:58:23+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/arpg/1869/</loc>
+    <loc>http://rhenn.neocities.org/arpg/1869/</loc>
     <lastmod>2023-12-03T21:40:16+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/arpg/</loc>
+    <loc>http://rhenn.neocities.org/arpg/</loc>
     <lastmod>2023-12-03T21:40:01+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>http://rhenn.neocities.org/contact/</loc>
     <lastmod>2023-12-03T21:23:09+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/art/</loc>
+    <loc>http://rhenn.neocities.org/art/</loc>
     <lastmod>2023-12-03T21:07:45+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reviews/witch-king/</loc>
+    <loc>http://rhenn.neocities.org/reviews/witch-king/</loc>
     <lastmod>2023-12-03T18:17:36+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/another-post/</loc>
+    <loc>http://rhenn.neocities.org/posts/another-post/</loc>
     <lastmod>2023-12-03T17:54:47+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://rhenn.neocities.org/posts/</loc>
     <lastmod>2023-12-03T17:54:47+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/test-post/</loc>
+    <loc>http://rhenn.neocities.org/posts/test-post/</loc>
     <lastmod>2023-12-03T17:38:28+13:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://rhenn.neocities.org/</loc>
     <lastmod>1970-01-01T12:00:00+12:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/updates/</loc>
+    <loc>http://rhenn.neocities.org/updates/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://rhenn.neocities.org/categories/</loc>
   </url>
   
 </urlset>

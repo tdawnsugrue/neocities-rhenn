@@ -2,21 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Reviews on Ateli-weird</title>
-    <link>http://example.org/reviews/</link>
+    <link>http://rhenn.neocities.org/reviews/</link>
     <description>Recent content in Book Reviews on Ateli-weird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 04 Dec 2023 20:22:57 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 13:46:59 +1300</lastBuildDate>
     
-	<atom:link href="http://example.org/reviews/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rhenn.neocities.org/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Provenance</title>
+      <link>http://rhenn.neocities.org/reviews/provenance/</link>
+      <pubDate>Tue, 30 Jan 2024 13:46:59 +1300</pubDate>
+      
+      <guid>http://rhenn.neocities.org/reviews/provenance/</guid>
+      <description>Set in the same universe as the Imperial Radch trilogy, this book follows Ingray, a young woman from the Hwean system. When a purchase goes wrong, she has to juggle with her politics and family to prevent disaster.
+After the original trilogy, it was nice to see what the Radchaai look like from outside of their domain. It also contrasted nicely with Breq&amp;rsquo;s perspective from the previous books - the conflict is a smaller scale, and though Hwae is seemingly unrelated to the goings-on of the Radchaai, I still found myself invested in Ingray&amp;rsquo;s struggle by the end.</description>
+    </item>
+    
+    <item>
+      <title>Ancillary Justice (and sequels)</title>
+      <link>http://rhenn.neocities.org/reviews/ancillary-justice/</link>
+      <pubDate>Mon, 08 Jan 2024 11:49:53 +1300</pubDate>
+      
+      <guid>http://rhenn.neocities.org/reviews/ancillary-justice/</guid>
+      <description>Ancillary Justice
+The first in a loose trilogy, Breq is the lone remaining body of a ship&amp;rsquo;s AI following a disaster not specified - what we know is she&amp;rsquo;s angry, and she&amp;rsquo;s seeking someone.
+I found Breq&amp;rsquo;s perspective interesting; the use of a single pronoun in a society where gender isn&amp;rsquo;t baked into the language was fresh to read, and executed fairly cleanly. I&amp;rsquo;m sure essays could (and probably have) be written on that alone, but what I found far more intriguing was the perspective of a hive-mind AI.</description>
+    </item>
+    
+    <item>
+      <title>The Eternal Sky Trilogy</title>
+      <link>http://rhenn.neocities.org/reviews/the-eternal-sky-trilogy/</link>
+      <pubDate>Mon, 08 Jan 2024 11:40:05 +1300</pubDate>
+      
+      <guid>http://rhenn.neocities.org/reviews/the-eternal-sky-trilogy/</guid>
+      <description>The Eternal Sky trilogy follows the journey of Re Temur, as he seeks to reclaim his grandfather&amp;rsquo;s throne. Along with Temur, the series follows a number of other character perspectives.
+As with the sequel series, Bear does a brilliant job of handling this; despite the large cast of characters most of them feel well fleshed out and interesting. These novels felt quite dense at times though - though I never struggled to get through them, they each took a long time to finish.</description>
+    </item>
+    
+    <item>
       <title>The Vorkosigan Saga</title>
-      <link>http://example.org/reviews/the-vorkosigan-saga/</link>
+      <link>http://rhenn.neocities.org/reviews/the-vorkosigan-saga/</link>
       <pubDate>Mon, 04 Dec 2023 20:22:57 +1300</pubDate>
       
-      <guid>http://example.org/reviews/the-vorkosigan-saga/</guid>
+      <guid>http://rhenn.neocities.org/reviews/the-vorkosigan-saga/</guid>
       <description>Overall, I enjoyed this series, with some major caveats.
 Miles is a very fun character to follow, and these books hold up well. The early books are (mostly) very fun, and I found most of them no challenge to get through.
 My main problem was with the latter half of the series. As with most of Bujold&amp;rsquo;s books, there&amp;rsquo;s a tendency for characters to get happily traditionally married by the end of the series.</description>
@@ -24,40 +55,41 @@ My main problem was with the latter half of the series. As with most of Bujold&a
     
     <item>
       <title>A Theory of Haunting</title>
-      <link>http://example.org/reviews/a-theory-of-haunting/</link>
+      <link>http://rhenn.neocities.org/reviews/a-theory-of-haunting/</link>
       <pubDate>Mon, 04 Dec 2023 20:19:19 +1300</pubDate>
       
-      <guid>http://example.org/reviews/a-theory-of-haunting/</guid>
+      <guid>http://rhenn.neocities.org/reviews/a-theory-of-haunting/</guid>
       <description>I&amp;rsquo;ll admit, I&amp;rsquo;m biased towards Monette&amp;rsquo;s writing. I read Melusine a lot back in highschool, and it was a keystone in forming my tastes.
 I enjoyed the mystery of this book. Kyle Murchison Booth is always fun to read, and Monette is very good at what she does. I only wish it was a little longer, as the ending felt quite abrupt.</description>
     </item>
     
     <item>
       <title>The Locked Tomb</title>
-      <link>http://example.org/reviews/the-locked-tomb/</link>
+      <link>http://rhenn.neocities.org/reviews/the-locked-tomb/</link>
       <pubDate>Mon, 04 Dec 2023 20:15:49 +1300</pubDate>
       
-      <guid>http://example.org/reviews/the-locked-tomb/</guid>
+      <guid>http://rhenn.neocities.org/reviews/the-locked-tomb/</guid>
       <description>I enjoyed these books, and it&amp;rsquo;s always fun to see a NZ author. All the characters are interesting and each of the books have a central mystery that is both intriguing to find out and devastating at the conclusion.
 Unfortunately, something about the writing stopped me from clicking with the characters.</description>
     </item>
     
     <item>
       <title>The Murderbot Diaries</title>
-      <link>http://example.org/reviews/murderbot/</link>
+      <link>http://rhenn.neocities.org/reviews/murderbot/</link>
       <pubDate>Mon, 04 Dec 2023 20:10:00 +1300</pubDate>
       
-      <guid>http://example.org/reviews/murderbot/</guid>
-      <description>The Murderbot Diaries is a series of novels and novellas following Murderbot, a sentient bot who has hacked its governor chip.
+      <guid>http://rhenn.neocities.org/reviews/murderbot/</guid>
+      <description>Books 1-6
+The Murderbot Diaries is a series of novels and novellas following Murderbot, a sentient bot who has hacked its governor chip.
 I loved this series. Most of the novellas are relatively short, and easy reading. Despite that, each one manages a good amount of depth in terms of character, and Murderbot&amp;rsquo;s point of view is distinctive and fun to read.</description>
     </item>
     
     <item>
       <title>Witch King</title>
-      <link>http://example.org/reviews/witch-king/</link>
+      <link>http://rhenn.neocities.org/reviews/witch-king/</link>
       <pubDate>Sun, 03 Dec 2023 18:17:36 +1300</pubDate>
       
-      <guid>http://example.org/reviews/witch-king/</guid>
+      <guid>http://rhenn.neocities.org/reviews/witch-king/</guid>
       <description>Witch King follows the story of the demon Kai, who awakens after being killed, and his journey to find out what happened.
 I wanted to enjoy Witch King more than I did. I loved Kai as a protagonist, and Wells&amp;rsquo; writing was enjoyable, but it suffered from the split timeline.
 Witch King has two timelines - one set in the present, and one in the past. Both were very interesting, but I felt like not enough time was spent on either, leaving us with two half-stories.</description>

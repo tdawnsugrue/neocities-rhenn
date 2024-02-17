@@ -35,8 +35,8 @@ main {
 }
 
 main > * {
-    background: rgba(255,255,255,0.8);
-    border: solid 2px rgba(255,255,255);
+    background: rgba(235,251,203,0.95);
+    border: dotted 2px rgba(255,255,255);
     padding-left: 2%;
 }
 
@@ -69,7 +69,9 @@ img {
 }
 
 #recent-panel > * {
-    background-color: rgba(200,200,200,1);
+    background-color: rgba(160,208,65,1);
+    padding: 1px;
+    border-radius: 10px;
 }
 
 .datetext {
@@ -81,25 +83,41 @@ img {
 }
 
 #updates-box {
-    /* height: 15vw; */
+    height: 250px;
     font-size: 9pt;
     overflow: scroll;
     border: solid 2px black;
+    /* background: url(/img/notepaper.gif);
+    background-attachment: scroll;
+    background-position-y: 8px;
+    background-repeat: repeat-y; */
 }
 
 /* Statuscafe section */
 #statuscafe {
     padding: .5em;
-    background-color: azure;
+    /* background-color: azure; */
+    background: url("/img/pinkmush.gif");
     border: 1px solid midnightblue;
     font-size: 8pt;
     margin: .5em;
 }
 #statuscafe-username {
     margin-bottom: .5em;
+    font-family: 'Brush Script MT', cursive;
+    font-size: large;
+    background-color: rgba(255,255,255,0.5);
 }
+
+#statuscafe-username > a {
+    color: rgb(166, 5, 90); 
+    font-size: larger;
+    font-weight: bolder;
+}
+
 #statuscafe-content {
     margin: 0 1em 0.5em 1em;
+    background-color: rgba(255,255,255,0.5);
 }
 
 .list-section > :not(h3) {

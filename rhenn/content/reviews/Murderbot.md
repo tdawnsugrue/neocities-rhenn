@@ -7,6 +7,8 @@ tags: ["sci-fi"]
 stars: "★★★★★"
 ---
 
+**Books 1-6**
+
 The Murderbot Diaries is a series of novels and novellas following Murderbot, a sentient bot who has hacked its governor chip.  
 
 I loved this series. Most of the novellas are relatively short, and easy reading. Despite that, each one manages a good amount of depth in terms of character, and Murderbot's point of view is distinctive and fun to read. 

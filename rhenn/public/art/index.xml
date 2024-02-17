@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Art on Ateli-weird</title>
-    <link>http://example.org/art/</link>
+    <link>http://rhenn.neocities.org/art/</link>
     <description>Recent content in My Art on Ateli-weird</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 03 Dec 2023 21:07:45 +1300</lastBuildDate>
     
-	<atom:link href="http://example.org/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rhenn.neocities.org/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digital</title>
-      <link>http://example.org/art/digital/</link>
+      <link>http://rhenn.neocities.org/art/digital/</link>
       <pubDate>Mon, 04 Dec 2023 17:36:41 +1300</pubDate>
       
-      <guid>http://example.org/art/digital/</guid>
+      <guid>http://rhenn.neocities.org/art/digital/</guid>
       <description>Note! I only update this infrequently. Newer and higher-res images may be available on my deviantart or other sites.</description>
     </item>
     
     <item>
       <title>Pixel</title>
-      <link>http://example.org/art/pixel/</link>
+      <link>http://rhenn.neocities.org/art/pixel/</link>
       <pubDate>Mon, 04 Dec 2023 10:58:23 +1300</pubDate>
       
-      <guid>http://example.org/art/pixel/</guid>
+      <guid>http://rhenn.neocities.org/art/pixel/</guid>
       <description></description>
     </item>
     

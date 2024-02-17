@@ -2,4 +2,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {{ $css := "css/main.css" | relURL }}
 <link rel="stylesheet" href="{{ $css }}">
+<link rel="alternate"
+      type="application/rss+xml"
+      href="{{.Site.BaseURL }}/index.xml"
+      title="Updates from {{ .Site.Title }}">
+<!-- <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/feed.xml" title="{{ .Site.Title }}"> -->
+
 <title>{{ .Title }}</title>
