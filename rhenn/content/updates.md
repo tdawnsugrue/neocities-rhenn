@@ -1,3 +1,7 @@
+#### February 17, 2024
+
+Made the first [blog post](/posts/february-updates)! Includes some personal updates, and a wee bit on my struggle with burnout.
+
 #### January 31, 2024  
 
 Added an RSS feed to the site. You can now get updates when I post something, hooray! :D

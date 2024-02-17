@@ -16,6 +16,7 @@ main {
     display:grid;
     grid-template-columns: 15vw 45vw;
     margin-left: 20vw;
+    font-size: 11pt;
 }
 
 @media screen and (max-width:800px) {
@@ -136,4 +137,8 @@ img {
     /* top: 20px; */
      bottom: 0;
     
+}
+
+#main > p {
+    padding-right: 20px;
 }

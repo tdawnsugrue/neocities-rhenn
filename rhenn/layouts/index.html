@@ -21,13 +21,27 @@
                 <!-- <div style="display: flex;align-content:flex-end;width: 100%;gap:100px;background:red"> -->
                 {{ $img := .Param "recent-art"}}
                 <img src="{{ $img }}" id="most-recent-art">
-                 <!-- <object id="melonland-surf-club" data="https://melonland.net/surf-badge.svg?fill=#5c3566" 
-                type="image/svg+xml" style="width: 100px; height: 100px;margin-top: 0;margin-left: 40%;"></object> -->
+                 
                 <!-- </div> -->
         </div> 
         <div id="updates-box">
                 {{ readFile "updates.md" | markdownify }}
         </div> 
 </div> 
+<h3>Webrings</h3>
+<div id="webrings">
+        <!-- Melonland -->
+        <object id="melonland-surf-club" data="https://melonland.net/surf-badge.svg?fill=#5c3566" 
+        type="image/svg+xml" style="width: 100px; height: 100px;margin-top: 0;margin-left:0;display:inline;"></object>
+
+        <!-- Marigold Town Libraruy (bookring)-->
+        <div style="display: inline;">
+        <a href='https://webri.ng/webring/thebookring/previous?via=https://rhenn.neocities.org'>
+                <img src="https://i.imgur.com/sIR6aFP.gif" width="13" height=13> </a>
+        <a href="https://library.marigold.town/"><img src="https://i.imgur.com/kZzmx1a.gif" width="88" height="31"></a>
+        <a href='https://webri.ng/webring/thebookring/next?via=https://rhenn.neocities.org'>
+                <img src="https://i.imgur.com/6ni3bTd.gif" width="13" height="13"></a>
+        </div>
+</div>
 
 {{ end }}
